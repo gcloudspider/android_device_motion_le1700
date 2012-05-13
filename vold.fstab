@@ -1,0 +1,2 @@
+dev_mount	reader	/media/MemCard		auto		
+dev_mount	usb		/media/USB			auto		

@@ -1,0 +1,8 @@
+on boot
+	chown system system /sys/class/backlight/le1700_screen/brightness
+	
+	
+	#setkeycode 0x6d 115
+	
+	
+	
